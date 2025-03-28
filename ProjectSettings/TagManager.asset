@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Champion
+  - 
+  - Red_Minion
+  - Blue_Minion
+  - 
+  - Red_Tower
+  - Blue_Tower
+  - 
+  - Red_Minion_Bullet
+  - Blue_Minion_Bullet
+  - 
+  - Red_Tower_Bullet
+  - Blue_Tower_Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Inventory_Slot
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
